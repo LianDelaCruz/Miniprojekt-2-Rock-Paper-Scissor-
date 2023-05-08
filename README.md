@@ -11,8 +11,6 @@ It is a game against computer. :computer:
 ### Why the project is useful:
 Because you can play this! and I also learned a lot 	:heart:
 
-### How users can get started with the project
-
 ### Where users can get help with your project:
 Please contact me!
 
